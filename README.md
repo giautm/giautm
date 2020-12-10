@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi, I'm Giau. 👋
 
+- 💻 I'm a software engineering working at @viecco. 
+- 🏡 I grew up at Ho Chi Minh city, VietNam.
+- 📫 You can reach me to ask for help any problem via: [Telegram](https://t.me/giautm), [Twitter] (https://twitter.com/giau_tm)
+
+Nice to meet you!
 <!--
 **giautm/giautm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +15,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
