@@ -2,7 +2,7 @@
 
 - 💻 I'm a software engineering working at @viecco. 
 - 🏡 I grew up at Ho Chi Minh city, VietNam.
-- 📫 You can reach me to ask for help any problem via: [Telegram](https://t.me/giautm), [Twitter](https://twitter.com/giau_tm)
+- 📫 You can reach me to ask for help any problem via: [Telegram](https://t.me/giautm), [Twitter](https://twitter.com/giau_tm), Discord (`giautm#4304`)
 
 Nice to meet you!
 
