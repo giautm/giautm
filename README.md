@@ -1,6 +1,6 @@
 ### Hi, I'm Giau. 👋
 
-- 💻 I'm a software engineering working at @viecco. 
+- 💻 I'm a software engineering. 
 - 🏡 I grew up at Ho Chi Minh city, VietNam.
 - 📫 You can reach me to ask for help any problem via: [Telegram](https://t.me/giautm), [Twitter](https://twitter.com/giau_tm), [Discord](https://discordapp.com/users/274600029056925696) - ID: `giautm#4304`
 - ☕ Want to buy me a coffee? 👉👉 https://buymeacoffee.com/giautm
